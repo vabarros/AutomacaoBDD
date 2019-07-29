@@ -1,0 +1,169 @@
+﻿2019-07-26T17:38:21.7468262-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-07-26T17:38:21.7468977-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework netcore21 in x64 mode execution started
+2019-07-26T17:38:21.7469010-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\vba002\source\repos\AmbienteTeste\AmbienteTeste\bin\Debug\netcoreapp2.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-07-26T17:38:21.7844719-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\vba002\source\repos\AmbienteTeste\AmbienteTeste\bin\Debug\netcoreapp2.1\AmbienteTeste.dll
+2019-07-26T17:38:21.7850507-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\vba002\source\repos\AmbienteTeste\TestResults" (default)
+2019-07-26T17:38:21.7851911-03:00;VSTestExecutionThread;Info;Profile: 
+2019-07-26T17:38:21.8821586-03:00;VSTestExecutionThread;Info;Log file path: C:\Users\vba002\source\repos\AmbienteTeste\TestResults\Unnamed project__2019-07-26T173821.log
+2019-07-26T17:38:21.8858459-03:00;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-07-26T17:38:21.8923874-03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-07-26T17:38:21.8978677-03:00;Thread#13;Info;Checking license
+2019-07-26T17:38:21.8982247-03:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-07-26T17:38:21.8998990-03:00;Thread#13;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-07-26T17:38:21.9259892-03:00;Thread#13;Info;Evaluation mode: test execution starts in 11 seconds... (this delay is removed in the registered version)
+2019-07-26T17:38:32.9271422-03:00;Thread#13;Info;Evaluation delay finished.
+2019-07-26T17:38:32.9584383-03:00;Thread#13;Info;License check completed
+2019-07-26T17:38:32.9587716-03:00;Thread#13;Info;starting test run
+2019-07-26T17:38:32.9782120-03:00;Thread#13;Info;Discovering target: Default
+2019-07-26T17:38:32.9784454-03:00;Thread#13;Info;Discovering tests from assembly: C:\Users\vba002\source\repos\AmbienteTeste\AmbienteTeste\bin\Debug\netcoreapp2.1\AmbienteTeste.dll
+2019-07-26T17:38:33.0907358-03:00;Thread#13;Info;Discovered tests from assembly: C:\Users\vba002\source\repos\AmbienteTeste\AmbienteTeste\bin\Debug\netcoreapp2.1\AmbienteTeste.dll
+2019-07-26T17:38:33.0922646-03:00:Test Suite Dump
+2019-07-26T17:38:33.0943935-03:00:#0: Unnamed project/ - 
+2019-07-26T17:38:33.0944151-03:00:#1: Default - 
+2019-07-26T17:38:33.0944369-03:00:#2: AmbienteTeste - 
+2019-07-26T17:38:33.0944388-03:00:#3: Tela de Boas Vindas – Hub Simples. - 
+2019-07-26T17:38:33.0988243-03:00:#4: “ Validar layout da tela de boas vindas”. - TestAssembly:AmbienteTeste/Feature:Tela+de+Boas+Vindas+%e2%80%93+Hub+Simples./Scenario:%e2%80%9c+Validar+layout+da+tela+de+boas+vindas%e2%80%9d.
+2019-07-26T17:38:33.0989998-03:00:#5: “ Acessar o link para o aplicativo Success Planner Digital”. - TestAssembly:AmbienteTeste/Feature:Tela+de+Boas+Vindas+%e2%80%93+Hub+Simples./Scenario:%e2%80%9c+Acessar+o+link+para+o+aplicativo+Success+Planner+Digital%e2%80%9d.
+2019-07-26T17:38:33.0990125-03:00:#6: “ Acessar o link When o aplicativo Success Planner Digital já estiver sido instalado”. - TestAssembly:AmbienteTeste/Feature:Tela+de+Boas+Vindas+%e2%80%93+Hub+Simples./Scenario:%e2%80%9c+Acessar+o+link+When+o+aplicativo+Success+Planner+Digital+j%c3%a1+estiver+sido+instalado%e2%80%9d.
+2019-07-26T17:38:33.0990599-03:00:#7: “ Acessar o link When o aplicativo Success Planner Digital  não estiver sido instalado”. - TestAssembly:AmbienteTeste/Feature:Tela+de+Boas+Vindas+%e2%80%93+Hub+Simples./Scenario:%e2%80%9c+Acessar+o+link+When+o+aplicativo+Success+Planner+Digital++n%c3%a3o+estiver+sido+instalado%e2%80%9d.
+2019-07-26T17:38:33.0991336-03:00:End: Test Suite Dump
+2019-07-26T17:38:33.1209560-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-07-26T17:38:33.1232698-03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2019-07-26T17:38:33.1233599-03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2019-07-26T17:38:33.1269258-03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2019-07-26T17:38:33.1269356-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2019-07-26T17:38:33.1269374-03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2019-07-26T17:38:33.1269393-03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2019-07-26T17:38:33.1282327-03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2019-07-26T17:38:33.1292670-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-07-26T17:38:33.1321399-03:00:Thread #0: creating new test thread executor for AmbienteTeste, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2019-07-26T17:38:33.1357931-03:00:Thread #0: Creating test assembly executor for execution model OutProc
+2019-07-26T17:38:33.1365575-03:00:Thread #0: Creating test assembly executor for execution model OutProc
+2019-07-26T17:38:33.1369801-03:00:using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2019-07-26T17:38:33.2711492-03:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-07-26T17:38:33.3018023-03:00:starting Out Of Process Executor
+2019-07-26T17:38:33.5895845-03:00:Executing test executor at 'C:\Program Files\dotnet\dotnet.exe' '"C:\Users\vba002\source\repos\AmbienteTeste\AmbienteTeste\bin\Debug\netcoreapp2.1\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.dll" 20308 2019-07-26T173821 "C:\Users\vba002\source\repos\AmbienteTeste\TestResults"' in 'C:\Users\vba002\source\repos\AmbienteTeste\AmbienteTeste\bin\Debug\netcoreapp2.1'
+2019-07-26T17:38:33.6034068-03:00:Entering Memory Barrier for 16524
+2019-07-26T17:38:33.6034229-03:00:Leaving Memory Barrier for 16524
+2019-07-26T17:38:33.6218440-03:00:Out of Process Executor 16524 started
+2019-07-26T17:38:33.7432926-03:00:Waiting for endpoint
+2019-07-26T17:38:33.7450470-03:00:trying to connect to Out of Process Executor the 1 attempt
+2019-07-26T17:38:34.6962940-03:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=pt-BR, PublicKeyToken=b03f5f7f11d50a3a
+2019-07-26T17:38:34.6972094-03:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=pt, PublicKeyToken=b03f5f7f11d50a3a
+2019-07-26T17:38:34.6984201-03:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-07-26T17:38:34.7206608-03:00:Connection to Out of Process Executor established in the 1 attempt
+2019-07-26T17:38:35.6433306-03:00:waiting for Connection of SpecRun.Executor.16524.Logger ended
+2019-07-26T17:38:36.2119174-03:00:waiting for Connection of SpecRun.Executor.16524.Callback ended
+2019-07-26T17:38:36.4677597-03:00:2019-07-26T17:38:36.3433361-03:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\vba002\source\repos\AmbienteTeste\AmbienteTeste\bin\Debug\netcoreapp2.1\AmbienteTeste.dll on test thread #0
+2019-07-26T17:38:36.4837525-03:00:Endpoint 16524 started
+2019-07-26T17:38:36.5601459-03:00:2019-07-26T17:38:36.5076412-03:00:OutOfProcessTestAssemblyExecutor: running tests...
+2019-07-26T17:38:36.6966004-03:00:Thread#0: Test #4/0 is started on thread #0
+2019-07-26T17:38:36.7087859-03:00:2019-07-26T17:38:36.7084563-03:00:Thread#0:T:2019-07-26T17:38:36.7065461-03:00:Assembly resolving TechTalk.SpecFlow, Version=3.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2019-07-26T17:38:36.9993018-03:00:2019-07-26T17:38:36.9989777-03:00:Thread#0:T:-> Loading plugin C:\Users\vba002\source\repos\AmbienteTeste\AmbienteTeste\bin\Debug\netcoreapp2.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2019-07-26T17:38:37.0447158-03:00:2019-07-26T17:38:37.0443766-03:00:Thread#0:T:2019-07-26T17:38:37.0442322-03:00:Assembly resolving TechTalk.SpecFlow, Version=3.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2019-07-26T17:38:37.0487965-03:00:2019-07-26T17:38:37.0485048-03:00:Thread#0:T:-> Using default config
+2019-07-26T17:38:37.0608530-03:00:2019-07-26T17:38:37.0604821-03:00:Thread#0:T:2019-07-26T17:38:37.0601670-03:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2019-07-26T17:38:37.0985037-03:00:2019-07-26T17:38:37.0981624-03:00:Thread#0:B:Given que um franqueado acesse a tela de login do aplicativo
+2019-07-26T17:38:37.3775787-03:00:2019-07-26T17:38:37.3763446-03:00:Thread#0:T:pending: TelaDeBoasVindasHubSimples_Steps.GivenQueUmFranqueadoAcesseATelaDeLoginDoAplicativo()
+2019-07-26T17:38:37.3792142-03:00:2019-07-26T17:38:37.3789228-03:00:Thread#0:B:When ao acessar a tela de boas vindas.
+2019-07-26T17:38:37.3798003-03:00:2019-07-26T17:38:37.3795811-03:00:Thread#0:T:skipped because of previous errors
+2019-07-26T17:38:37.3843762-03:00:2019-07-26T17:38:37.3802784-03:00:Thread#0:B:Then o franqueado acessa a tela inicial
+2019-07-26T17:38:37.3849232-03:00:2019-07-26T17:38:37.3846285-03:00:Thread#0:T:skipped because of previous errors
+2019-07-26T17:38:37.3859264-03:00:2019-07-26T17:38:37.3856219-03:00:Thread#0:B:And exibirá os ícones: Success Planner Digital, Plataforma de Vendas LP, Proposta Eletrônica e LP Online.
+2019-07-26T17:38:37.3864027-03:00:2019-07-26T17:38:37.3862284-03:00:Thread#0:T:skipped because of previous errors
+2019-07-26T17:38:37.3919319-03:00:2019-07-26T17:38:37.3914786-03:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2019-07-26T17:38:37.3921569-03:00:2019-07-26T17:38:37.3920457-03:00:Thread#0:T:  TelaDeBoasVindasHubSimples_Steps.GivenQueUmFranqueadoAcesseATelaDeLoginDoAplicativo()
+2019-07-26T17:38:37.3988195-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-07-26T17:38:37.3988541-03:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2019-07-26T17:38:37.3988596-03:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2019-07-26T17:38:37.3988950-03:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2019-07-26T17:38:37.3988986-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2019-07-26T17:38:37.3989001-03:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2019-07-26T17:38:37.3989066-03:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2019-07-26T17:38:37.3989190-03:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2019-07-26T17:38:37.3989267-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-07-26T17:38:37.4391469-03:00:Thread#0: Test #4/0 is finished on thread #0 as Pending within 0,7417976 seconds
+2019-07-26T17:38:37.4422299-03:00:Thread#0: Test #5/0 is started on thread #0
+2019-07-26T17:38:37.4430140-03:00:2019-07-26T17:38:37.4428112-03:00:Thread#0:B:Given que um usuário tenha acesso ao App Success Planner.
+2019-07-26T17:38:37.4446422-03:00:2019-07-26T17:38:37.4443800-03:00:Thread#0:T:pending: TelaDeBoasVindasHubSimples_Steps.GivenQueUmUsuarioTenhaAcessoAoAppSuccessPlanner_()
+2019-07-26T17:38:37.4450259-03:00:2019-07-26T17:38:37.4448749-03:00:Thread#0:B:When ao clicar no link Success Planner.
+2019-07-26T17:38:37.4453187-03:00:2019-07-26T17:38:37.4451816-03:00:Thread#0:T:skipped because of previous errors
+2019-07-26T17:38:37.4455653-03:00:2019-07-26T17:38:37.4454464-03:00:Thread#0:B:Then será redirecionado
+2019-07-26T17:38:37.4458373-03:00:2019-07-26T17:38:37.4457104-03:00:Thread#0:T:skipped because of previous errors
+2019-07-26T17:38:37.4460765-03:00:2019-07-26T17:38:37.4459551-03:00:Thread#0:B:And será aberto a tela inicial do Success Planner.
+2019-07-26T17:38:37.4463358-03:00:2019-07-26T17:38:37.4462122-03:00:Thread#0:T:skipped because of previous errors
+2019-07-26T17:38:37.4472715-03:00:2019-07-26T17:38:37.4470805-03:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2019-07-26T17:38:37.4476504-03:00:2019-07-26T17:38:37.4474710-03:00:Thread#0:T:  TelaDeBoasVindasHubSimples_Steps.GivenQueUmUsuarioTenhaAcessoAoAppSuccessPlanner_()
+2019-07-26T17:38:37.4483441-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-07-26T17:38:37.4483532-03:00:Thread#:Scheduler: testitem #6 from normal test queue 
+2019-07-26T17:38:37.4483558-03:00:Thread#0:Scheduler: considering testitem #6 for thread 0
+2019-07-26T17:38:37.4483744-03:00:Thread#0:TestItem#6:testItemMatchesCurrentTestThread:UnSpecific
+2019-07-26T17:38:37.4483773-03:00:Thread#0:TestItem#6:runsOnOneOtherThreadSpecific:False
+2019-07-26T17:38:37.4483791-03:00:Thread#0:TestItem#6:runsOnOneOtherThreadUnspecific:False
+2019-07-26T17:38:37.4483864-03:00:Thread#0:Scheduler: using testitem #6 for thread 0
+2019-07-26T17:38:37.4483963-03:00:Thread#0:Scheduler: Test #6 is scheduled for thread
+2019-07-26T17:38:37.4484021-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-07-26T17:38:37.4493870-03:00:Thread#0: Test #5/0 is finished on thread #0 as Pending within 0,0071195 seconds
+2019-07-26T17:38:37.4506871-03:00:Thread#0: Test #6/0 is started on thread #0
+2019-07-26T17:38:37.4519223-03:00:2019-07-26T17:38:37.4516316-03:00:Thread#0:B:Given que um usuário tenha o App Success Planner instalado.
+2019-07-26T17:38:37.4535608-03:00:2019-07-26T17:38:37.4532709-03:00:Thread#0:T:pending: TelaDeBoasVindasHubSimples_Steps.GivenQueUmUsuarioTenhaOAppSuccessPlannerInstalado_()
+2019-07-26T17:38:37.4538766-03:00:2019-07-26T17:38:37.4537581-03:00:Thread#0:B:When ao clicar no link Success Planner.
+2019-07-26T17:38:37.4541483-03:00:2019-07-26T17:38:37.4540265-03:00:Thread#0:T:skipped because of previous errors
+2019-07-26T17:38:37.4543488-03:00:2019-07-26T17:38:37.4542419-03:00:Thread#0:B:Then será apresentada mensagem “Já instalado”.
+2019-07-26T17:38:37.4546029-03:00:2019-07-26T17:38:37.4544884-03:00:Thread#0:T:skipped because of previous errors
+2019-07-26T17:38:37.4555077-03:00:2019-07-26T17:38:37.4552375-03:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2019-07-26T17:38:37.4558312-03:00:2019-07-26T17:38:37.4556962-03:00:Thread#0:T:  TelaDeBoasVindasHubSimples_Steps.GivenQueUmUsuarioTenhaOAppSuccessPlannerInstalado_()
+2019-07-26T17:38:37.4563884-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-07-26T17:38:37.4563994-03:00:Thread#:Scheduler: testitem #7 from normal test queue 
+2019-07-26T17:38:37.4564147-03:00:Thread#0:Scheduler: considering testitem #7 for thread 0
+2019-07-26T17:38:37.4564705-03:00:Thread#0:TestItem#7:testItemMatchesCurrentTestThread:UnSpecific
+2019-07-26T17:38:37.4564738-03:00:Thread#0:TestItem#7:runsOnOneOtherThreadSpecific:False
+2019-07-26T17:38:37.4564756-03:00:Thread#0:TestItem#7:runsOnOneOtherThreadUnspecific:False
+2019-07-26T17:38:37.4564774-03:00:Thread#0:Scheduler: using testitem #7 for thread 0
+2019-07-26T17:38:37.4564869-03:00:Thread#0:Scheduler: Test #7 is scheduled for thread
+2019-07-26T17:38:37.4564931-03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2019-07-26T17:38:37.4572458-03:00:Thread#0: Test #6/0 is finished on thread #0 as Pending within 0,0065339 seconds
+2019-07-26T17:38:37.4577494-03:00:Thread#0: Test #7/0 is started on thread #0
+2019-07-26T17:38:37.4586265-03:00:2019-07-26T17:38:37.4583887-03:00:Thread#0:B:Given que um usuário não tenha o App Success Planner instalado.
+2019-07-26T17:38:37.4607820-03:00:2019-07-26T17:38:37.4604217-03:00:Thread#0:T:pending: TelaDeBoasVindasHubSimples_Steps.GivenQueUmUsuarioNaoTenhaOAppSuccessPlannerInstalado_()
+2019-07-26T17:38:37.4610930-03:00:2019-07-26T17:38:37.4609618-03:00:Thread#0:B:When ao clicar no link Success Planner.
+2019-07-26T17:38:37.4613724-03:00:2019-07-26T17:38:37.4612469-03:00:Thread#0:T:skipped because of previous errors
+2019-07-26T17:38:37.4615948-03:00:2019-07-26T17:38:37.4614730-03:00:Thread#0:B:Then será apresentado um botão com o rótulo “Instalar”.
+2019-07-26T17:38:37.4620773-03:00:2019-07-26T17:38:37.4617184-03:00:Thread#0:T:skipped because of previous errors
+2019-07-26T17:38:37.4629438-03:00:2019-07-26T17:38:37.4626954-03:00:Thread#0:T:Pending: One or more step definitions are not implemented yet.
+2019-07-26T17:38:37.4632064-03:00:2019-07-26T17:38:37.4630736-03:00:Thread#0:T:  TelaDeBoasVindasHubSimples_Steps.GivenQueUmUsuarioNaoTenhaOAppSuccessPlannerInstalado_()
+2019-07-26T17:38:37.4638698-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-07-26T17:38:37.4638829-03:00:Thread#:Scheduler: at the end of normal test queue
+2019-07-26T17:38:37.4638858-03:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-07-26T17:38:37.4638887-03:00:Thread#0:Scheduler: No more tests for thread
+2019-07-26T17:38:37.4660271-03:00:Thread#0: Test #7/0 is finished on thread #0 as Pending within 0,008249 seconds
+2019-07-26T17:38:37.4758132-03:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2019-07-26T17:38:37.4798071-03:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.1.0, Culture=pt-BR, PublicKeyToken=b03f5f7f11d50a3a
+2019-07-26T17:38:37.4804215-03:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.1.0, Culture=pt, PublicKeyToken=b03f5f7f11d50a3a
+2019-07-26T17:38:37.4841277-03:00:Unable to stop executor process: System.InvalidOperationException: No process is associated with this object.
+   at System.Diagnostics.Process.EnsureState(State state)
+   at System.Diagnostics.Process.get_HasExited()
+   at TechTalk.SpecRun.Framework.Execution.OutOfProc.OutProcExecutorManager.StopExecutorProcess(Process executorProcess)
+2019-07-26T17:38:37.4937183-03:00:Thread#-1:Scheduler: get next test for thread -1
+2019-07-26T17:38:37.4937314-03:00:Thread#:Scheduler: at the end of normal test queue
+2019-07-26T17:38:37.4937340-03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-07-26T17:38:37.4957900-03:00;Thread#13;Info;test run finished
+2019-07-26T17:38:37.4959534-03:00;Thread#13;Info;publishing test results
+2019-07-26T17:38:37.4961532-03:00;Thread#13;Info;Not publishing results.
+2019-07-26T17:38:37.4963458-03:00;Thread#13;Info;test results published
+2019-07-26T17:38:37.4964282-03:00;Thread#13;Info;generating reports
+2019-07-26T17:38:37.6274064-03:00;Thread#13;Info;Starting external report generation process
+2019-07-26T17:38:44.2404459-03:00;Thread#13;Info;Successfully generated reports.
+2019-07-26T17:38:44.2429989-03:00;Thread#13;Info;Successfully generated reports
+2019-07-26T17:38:44.2534246-03:00:Total: 4
+2019-07-26T17:38:44.2568215-03:00:Succeeded: 0
+2019-07-26T17:38:44.2576107-03:00:Ignored: 0
+2019-07-26T17:38:44.2584877-03:00:Pending: 4
+2019-07-26T17:38:44.2584987-03:00:Skipped: 0
+2019-07-26T17:38:44.2592718-03:00:Failed: 0
+2019-07-26T17:38:44.2714687-03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2019-07-26T17:38:44.2716890-03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\vba002\source\repos\AmbienteTeste\TestResults\Unnamed project__2019-07-26T173821.html'
+========== End of log file ==========

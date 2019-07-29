@@ -1,0 +1,37 @@
+﻿2019-07-26T17:41:23.6824604-03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2019-07-26T17:41:23.6825199-03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework netcore21 in x64 mode execution started
+2019-07-26T17:41:23.6825228-03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\vba002\source\repos\AmbienteTeste\AmbienteTeste\bin\Debug\netcoreapp2.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2019-07-26T17:41:23.7147268-03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\vba002\source\repos\AmbienteTeste\AmbienteTeste\bin\Debug\netcoreapp2.1\AmbienteTeste.dll
+2019-07-26T17:41:23.7150266-03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\vba002\source\repos\AmbienteTeste\TestResults" (default)
+2019-07-26T17:41:23.7150856-03:00;VSTestExecutionThread;Info;Profile: 
+2019-07-26T17:41:23.7470577-03:00;VSTestExecutionThread;Info;Log file path: C:\Users\vba002\source\repos\AmbienteTeste\TestResults\Unnamed project__2019-07-26T174123.log
+2019-07-26T17:41:23.7489865-03:00;VSTestExecutionThread;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-07-26T17:41:23.7534133-03:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2019-07-26T17:41:23.7589953-03:00;Thread#12;Info;Checking license
+2019-07-26T17:41:23.7595657-03:00;Thread#12;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-07-26T17:41:23.7617884-03:00;Thread#12;Error;Invalid project license: The test assembly name must contain the licensed project name
+2019-07-26T17:41:23.7754031-03:00;Thread#12;Info;Evaluation mode: test execution starts in 9 seconds... (this delay is removed in the registered version)
+2019-07-26T17:41:32.7772454-03:00;Thread#12;Info;Evaluation delay finished.
+2019-07-26T17:41:32.7915264-03:00;Thread#12;Info;License check completed
+2019-07-26T17:41:32.7919207-03:00;Thread#12;Info;starting test run
+2019-07-26T17:41:32.8046339-03:00;Thread#12;Info;Discovering target: Default
+2019-07-26T17:41:32.8048633-03:00;Thread#12;Info;Discovering tests from assembly: C:\Users\vba002\source\repos\AmbienteTeste\AmbienteTeste\bin\Debug\netcoreapp2.1\AmbienteTeste.dll
+2019-07-26T17:41:32.9361003-03:00;Thread#12;Info;Discovered tests from assembly: C:\Users\vba002\source\repos\AmbienteTeste\AmbienteTeste\bin\Debug\netcoreapp2.1\AmbienteTeste.dll
+2019-07-26T17:41:32.9378971-03:00:Test Suite Dump
+2019-07-26T17:41:32.9403746-03:00:#0: Unnamed project/ - 
+2019-07-26T17:41:32.9404454-03:00:End: Test Suite Dump
+2019-07-26T17:41:32.9627773-03:00:Thread#0:Scheduler: get next test for thread 0
+2019-07-26T17:41:32.9656346-03:00:Thread#:Scheduler: at the end of normal test queue
+2019-07-26T17:41:32.9656521-03:00:Thread#0:Scheduler: enumerator for thread is at end
+2019-07-26T17:41:32.9658957-03:00:Thread#0:Scheduler: No more tests for thread
+2019-07-26T17:41:32.9750216-03:00:Thread#-1:Scheduler: get next test for thread -1
+2019-07-26T17:41:32.9750727-03:00:Thread#:Scheduler: at the end of normal test queue
+2019-07-26T17:41:32.9750760-03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2019-07-26T17:41:32.9773169-03:00;Thread#12;Info;test run finished
+2019-07-26T17:41:32.9774657-03:00;Thread#12;Info;publishing test results
+2019-07-26T17:41:32.9783664-03:00;Thread#12;Info;Not publishing results.
+2019-07-26T17:41:32.9786621-03:00;Thread#12;Info;test results published
+2019-07-26T17:41:32.9787701-03:00;Thread#12;Info;generating reports
+2019-07-26T17:41:33.0670964-03:00;Thread#12;Info;Starting external report generation process
+2019-07-26T17:41:34.8741273-03:00;Thread#12;Error;Could not generate test run result reports. An error occurred in the generator.
+2019-07-26T17:41:34.8743107-03:00;Thread#12;Error;Error output of external program:
